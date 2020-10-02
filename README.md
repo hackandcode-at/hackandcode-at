@@ -9,6 +9,6 @@ If you are interessted in coding tutorials, feel free to watch one of my crash c
 For collaborations you can reach me at <hackandcode@web.de>.
 
 ### My Social Media
-> [Twitter](https://twitter.com/hackandcode)
-> [Instagram](https://www.instagram.com/hackandcode/)
-> [YouTube](https://www.youtube.com/channel/UC7bRlNSCSDqgOwyt5ZxnPfA)
+* [Twitter](https://twitter.com/hackandcode)
+* [Instagram](https://www.instagram.com/hackandcode/)
+* [YouTube](https://www.youtube.com/channel/UC7bRlNSCSDqgOwyt5ZxnPfA)
