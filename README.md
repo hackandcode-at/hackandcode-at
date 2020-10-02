@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-I'm Developer, Server Admin, Hacker or just the crazy Linux dude
+I'm a Developer, Server Admin, Hacker or just the crazy Linux dude.
 
 If you are interessted in coding tutorials, feel free to watch one of my crash courses on [YouTube](https://www.youtube.com/channel/UC7bRlNSCSDqgOwyt5ZxnPfA)
