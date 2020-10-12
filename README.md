@@ -16,7 +16,7 @@ For collaborations you can reach me at <hackandcode@web.de>.
 ### Specs
 
 * **Editor:** VS Code with to many extensions
-* **Front-End:** HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap, React
+* **Front-End:** HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap, ReactJS
 * **Back-End:** Python, PHP
 * **Databases:** SQL (MariaDB, Oracle), MongoDB
 * **Other Languages:** C, C#
