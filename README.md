@@ -12,3 +12,12 @@ For collaborations you can reach me at <hackandcode@web.de>.
 * [Twitter](https://twitter.com/hackandcode)
 * [Instagram](https://www.instagram.com/hackandcode/)
 * [YouTube](https://www.youtube.com/channel/UC7bRlNSCSDqgOwyt5ZxnPfA)
+
+### Specs
+
+* **Editor:** VS Code with to many extensions
+* **Front-End:** HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap, React
+* **Back-End:** Python, PHP
+* **Databases:** SQL (MariaDB, Oracle), MongoDB
+* **Other Languages:** C, C#
+* **Tools:** Git, Docker
