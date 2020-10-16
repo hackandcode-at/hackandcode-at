@@ -21,4 +21,4 @@ For collaborations you can reach me at <hackandcode@web.de>.
 * **Databases:** SQL (MariaDB, Oracle), MongoDB
 * **Other Languages:** C, C#
 * **Tools:** Git, Docker
-* **OS:** Debian, Ubuntu and other Distros
+* **OS:** Debian, Ubuntu and other Linux Distros (kinda Distrohopper)
