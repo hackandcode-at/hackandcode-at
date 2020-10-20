@@ -16,9 +16,9 @@ For collaborations you can reach me at <hackandcode@web.de>.
 ### Specs
 
 * **Editor:** VSCode with to many extentions
-* **Front-End:** <img src="./logos/HTML.png" height="20">, <img src="./logos/CSS.png" height="20">, <img src="./logos/JS.png" height="20">, <img src="./logos/TS.png" height="20">, <img src="./logos/sass.svg" height="20">, <img src="./logos/Bootstrap.png" height="20">, <img src="./logos/React.png" height="20">
-* **Back-End:** <img src="./logos/PHP.png" height="20">
-* **Databases:** <img src="./logos/MySQL.png" height="20">, <img src="./logos/MongoDB.png" height="20">
-* **Other Languages:** <img src="./logos/Python.png" height="20">, <img src="./logos/C.png" height="20">, <img src="./logos/CS.png" height="20">, <img src="./logos/Java.png" height="20">
-* **Tools:** <img src="./logos/Git.png" height="20">, <img src="./logos/Docker.png" height="20">, <img src="./logos/kubernetes.png" height="20">, <img src="./logos/npm.png" height="20">
-* **OS:** <img src="./logos/Debian.png" height="20">, <img src="./logos/Ubuntu.png" height="20"> and other Linux Distros (kinda Distrohopper)
+* **Front-End:** <img src="./logos/HTML.png" height="30">, <img src="./logos/CSS.png" height="30">, <img src="./logos/JS.png" height="30">, <img src="./logos/TS.png" height="30">, <img src="./logos/sass.svg" height="30">, <img src="./logos/Bootstrap.png" height="30">, <img src="./logos/React.png" height="30">
+* **Back-End:** <img src="./logos/PHP.png" height="30">
+* **Databases:** <img src="./logos/MySQL.png" height="30">, <img src="./logos/MongoDB.png" height="30">
+* **Other Languages:** <img src="./logos/Python.png" height="30">, <img src="./logos/C.png" height="30">, <img src="./logos/CS.png" height="30">, <img src="./logos/Java.png" height="30">
+* **Tools:** <img src="./logos/Git.png" height="30">, <img src="./logos/Docker.png" height="30">, <img src="./logos/kubernetes.png" height="30">, <img src="./logos/npm.png" height="30">
+* **OS:** <img src="./logos/Debian.png" height="30">, <img src="./logos/Ubuntu.png" height="30"> and other Linux Distros (kinda Distrohopper)
