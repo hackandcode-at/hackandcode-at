@@ -20,5 +20,5 @@ For collaborations you can reach me at <hackandcode@web.de>.
 * **Back-End:** <img src="./logos/PHP.png" height="20">
 * **Databases:** SQL (MariaDB, Oracle), MongoDB
 * **Other Languages:** <img src="./logos/Python.png" height="20">, <img src="./logos/C.png" height="20">, <img src="./logos/CS.png" height="20">, <img src="./logos/Java.png" height="20">
-* **Tools:** <img src="./logos/Git.png" height="20">, <img src="./logos/Docker.png" height="20">, <img src="./logos/Kubernetes.png" height="20">, <img src="./logos/npm.png" height="20">
-* **OS:** Debian, Ubuntu and other Linux Distros (kinda Distrohopper)
+* **Tools:** <img src="./logos/Git.png" height="20">, <img src="./logos/Docker.png" height="20">, <img src="./logos/kubernetes.png" height="20">, <img src="./logos/npm.png" height="20">
+* **OS:** <img src="./logos/Debian.png" height="20">, <img src="./logos/Ubuntu.png" height="20"> and other Linux Distros (kinda Distrohopper)
