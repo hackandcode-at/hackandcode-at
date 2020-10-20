@@ -19,4 +19,4 @@ And before you ask: Yes, the tattoo is real.
 * **Tools:** <img src="./logos/Git.png" height="30">, <img src="./logos/Docker.png" height="30">, <img src="./logos/kubernetes.png" height="30">, <img src="./logos/npm.png" height="20">
 * **Main OS:** <img src="./logos/Ubuntu.png" height="25"> and other Linux Distros (kinda Distrohopper)
 * **Server OS:** <img src="./logos/Debian.png" height="25">
-* **Pen-Testing OS:** <img src="./logos/Parrot.png" height="25">
+** **Pen-Testing OS:** <img src="./logos/Parrot.png" height="25">
