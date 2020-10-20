@@ -15,7 +15,7 @@ For collaborations you can reach me at <hackandcode@web.de>.
 
 ### Specs
 
-* **Editor:** <img src="./logos/VSCode.png" height="30">,  with to many extentions
+* **Editor:** <img src="./logos/VSCode.png" height="30">,  with too many extentions
 * **Front-End:** <img src="./logos/HTML.png" height="30">, <img src="./logos/CSS.png" height="30">, <img src="./logos/JS.png" height="30">, <img src="./logos/TS.png" height="30">, <img src="./logos/sass.svg" height="30">, <img src="./logos/Bootstrap.png" height="30">, <img src="./logos/React.png" height="30">
 * **Back-End:** <img src="./logos/PHP.png" height="30">
 * **Databases:** <img src="./logos/MySQL.png" height="35">, <img src="./logos/MongoDB.png" height="30">
