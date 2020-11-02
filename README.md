@@ -2,11 +2,6 @@
 
 I'm a Developer, Server Admin, Hacker or just the crazy Linux dude. <img src="./logos/Tux.png" height="30">
 
-### My Social Media
-* [Twitter](https://twitter.com/hackandcode) <img src="./logos/twitter.png" height="30">
-* [Instagram](https://www.instagram.com/hackandcode/) <img src="./logos/insta.png" height="20">
-* [YouTube](https://www.youtube.com/channel/UC7bRlNSCSDqgOwyt5ZxnPfA) <img src="./logos/yt.png" height="20">
-
 ### Specs
 
 * **Editor:** <img src="./logos/VSCode.png" height="30">,  with too many extentions
