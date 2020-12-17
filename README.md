@@ -10,4 +10,4 @@ I'm a Developer, Server Admin, Hacker or just the crazy Linux dude. <img src="./
 <img src="./logos/MySQL.png" height="30">, <img src="./logos/MongoDB.png" height="30">
 <img src="./logos/Python.png" height="25">, <img src="./logos/C.png" height="30">, <img src="./logos/CS.png" height="30">, <img src="./logos/Java.png" height="30">
 <img src="./logos/Git.png" height="30">, <img src="./logos/Docker.png" height="30">, <img src="./logos/kubernetes.png" height="30">, <img src="./logos/npm.png" height="20">
-<img src="./logos/Ubuntu.png" height="25"> **Server OS:** <img src="./logos/Debian.png" height="25"> **Pen-Testing OS:** <img src="./logos/Parrot.png" height="25">
+<img src="./logos/Ubuntu.png" height="25"><img src="./logos/Debian.png" height="25"><img src="./logos/Parrot.png" height="25">
